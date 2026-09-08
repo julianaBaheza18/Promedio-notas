@@ -10,4 +10,4 @@ if __name__ == "__main__":
     resultado = calcular_promedio(nota1, nota2)
 
     print("El promedio es:", resultado)
-  
+  input("Presiona Enter para salir...")
